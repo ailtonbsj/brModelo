@@ -1,0 +1,11 @@
+Package: brmodelo
+Version: 3.2.0
+Installed-Size: 1238
+Maintainer: ailtonbsj <ailton.ifce@gmail.com>
+Section: devel
+Architecture: all
+Priority: optional
+Depends: default-jre
+Homepage: https://github.com/ailtonbsj/brModelo
+Description: A tool for database modelling.
+ This tool is used for learning in database modelling based on book Carlos A Heuser.

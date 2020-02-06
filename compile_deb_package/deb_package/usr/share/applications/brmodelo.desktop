@@ -1,0 +1,10 @@
+[Desktop Entry]
+Categories=Development;
+Comment=brModelo
+Encoding=UTF-8
+Exec=/usr/bin/brmodelo
+Icon=brmodelo
+Name=brModelo
+StartupNotify=true
+Terminal=false
+Type=Application
