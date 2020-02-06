@@ -50,6 +50,17 @@ public class Aplicacao {
         } catch (UnsupportedLookAndFeelException | ClassNotFoundException | InstantiationException | IllegalAccessException ex) {
             util.BrLogger.Logger("ERROR_APP_LOAD_UI", ex.getMessage());
         }
+        
+        try {
+            for (javax.swing.UIManager.LookAndFeelInfo info : javax.swing.UIManager.getInstalledLookAndFeels()) {
+                if ("com.sun.java.swing.plaf.gtk.GTKLookAndFeel".equals(info.getClassName())) {   
+                    javax.swing.UIManager.setLookAndFeel(info.getClassName());
+                    break;
+                } 
+            }
+        } catch (ClassNotFoundException | IllegalAccessException | InstantiationException | UnsupportedLookAndFeelException e) {
+            System.out.println(e.getMessage());
+        }
 
     }
 

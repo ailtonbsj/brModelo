@@ -1,14 +1,14 @@
 #Config
-#Thu Jan 03 12:34:42 AMST 2019
-cfg.autosalvarintervalo=1
-cfg.ancorador=true
-cfg.mostrargrade=true
-cfg.location.y=147
-cfg.location.x=339
-cfg.mostrardimensoesaomover=true
-cfg.gradelargura=23
-cfg.mostrartooltips=false
+#Wed Feb 05 21:11:04 BRT 2020
 cfg.tipodefault=0
-cfg.mostrarids=false
-cfg.recentes=C\:\\Chc\\TMP\\L\u00F3gico_1.xml;C\:\\Chc\\TMP\\BigLogico.xml;C\:\\Users\\chcan\\OneDrive\\Chc\\L\u00F3gico_RISCO.brM3;C\:\\Chc\\TMP\\brTestes\\BigLogico.xml;C\:\\Chc\\TMP\\BigLogicoComErro.brM3;C\:\\Chc\\Prg\\brModelo\\L\u00F3gico_teste.brM3;C\:\\Users\\chcan\\OneDrive\\Chc\\Conceitual_RISCO2.brM3;C\:\\Chc\\Prg\\brModelo\\L\u00F3gico_2.brM3;C\:\\Users\\chcan\\OneDrive\\Chc\\Conceitual_sis_risco.brM3;C\:\\Chc\\Prg\\brModelo\\L\u00F3gico_teste.xml;C\:\\Chc\\TMP\\L\u00F3gico_1.brM3;C\:\\Chc\\TMP\\teste.brM3;C\:\\Chc\\TMP\\Conceitual_RISCO2.xml;C\:\\Chc\\TMP\\Conceitual_RISCO2.brM3
 cfg.location.salvar=true
+cfg.mostrarids=false
+cfg.ancorador=true
+cfg.recentes=
+cfg.autosalvarintervalo=1
+cfg.mostrartooltips=false
+cfg.mostrardimensoesaomover=true
+cfg.mostrargrade=true
+cfg.location.x=-1
+cfg.location.y=-1
+cfg.gradelargura=23
