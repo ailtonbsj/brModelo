@@ -2,6 +2,8 @@
 
 > Pacote .deb disponível nos realeases
 
+![](https://appsedu.github.io/catalog-apps/screenshots/brmodelo.png)
+
 ## 1. Introdução
 
 Em 2005 foi desenvolvida uma ferramenta de código aberto e totalmente gratuita voltada para ensino de modelagem de banco de dados relacionais com base na metodologia defendida por Carlos A. Heuser no livro “Projeto de Banco de Dados”. Esta ferramenta foi concebida como trabalho de conclusão do curso de especialização em banco de dados pelas universidades UFSC (SC) e UNIVAG (MT), orientado pelo Professor Dr. Ronaldo dos Santos Mello, após se constatar a inexistência de uma ferramenta nacional que pudesse ser utilizada para essa finalidade.
